@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@iamVyxon-666" target="_blank">
+  <a href="https://www.youtube.com/@vyxonq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/users/1227908670394863639" target="_blank">
