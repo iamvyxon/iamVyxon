@@ -16,8 +16,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/LuaU_Logo.svg" height="30" alt="luau logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -44,3 +42,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/iamVyxon/count.svg?"  />
 </div>
+
+###
