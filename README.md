@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iamvyxon/count.svg?"  />
+  <img src="https://cdn.discordapp.com/avatars/1227908670394863639/1838b39f9a7f2d44dad8547f8e2d0680.png?size=1024"  />
 </div>
 
 ###
